@@ -1,0 +1,6 @@
+Utilizando o programa Gerador.py é gerado uma tabela aleatória com 3 informações para cada usuário (nome,data de nascimento, nº do documento).
+Pode-se utilizar os arquivos txt já produzidos.
+Rodando o programa EP.py ele ordena todos os dados com prioridade nome>data de nascimento>nº de documento.
+Para escolher o arquivo escreva no programa "nome_do_arquivo.txt"
+O programa utiliza 3 métodos diferentes para isso e compara o tempo de cada método
+Sugestão: Rode para 10k+ dados já que para um número pequeno a medida de tempo não é feita com a precisão necessária.
